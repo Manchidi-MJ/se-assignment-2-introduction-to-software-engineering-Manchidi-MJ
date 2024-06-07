@@ -64,7 +64,7 @@ assurance throughout the development process.
 Software Development Life Cycle (SDLC)
 
 The Software Development Life Cycle (SDLC) is a structured process used by software 
-engineering teams to design, develop, test, and deploy high-quality software
+engineering teams to design, develop, test, and deploy high-quality software.
 
 3.Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
 Agile vs. Waterfall Models:
@@ -78,71 +78,119 @@ of the software from stakeholders.
 
 ✓ Activities: Conducting interviews, surveys, and meetings with stakeholders; 
 creating requirement specification documents.
+
 ✓ Outcome: A detailed requirements specification document that serves as a 
 foundation for subsequent phases.
+
 • System Design:
+
 ✓ Objective: To design the architecture of the system based on the requirements.
+
 ✓ Activities: Creating system architecture diagrams, defining data models, designing 
 user interfaces, and specifying hardware and software requirements.
+
 ✓ Outcome: Design documents including system architecture, data flow diagrams, 
 and interface designs.
+
 • Implementation (Coding):
+
 ✓ Objective: To translate the system design into actual code.
+
 ✓ Activities: Writing code using appropriate programming languages and tools, 
 following coding standards, and utilizing version control systems.
+
 ✓ Outcome: Executable software components that form the complete system.
+
 • Testing:
+
 ✓ Objective: To identify and fix defects in the software.
+
 ✓ Activities: Conducting various types of tests, such as unit testing, integration 
 testing, system testing, and acceptance testing; reporting and fixing bugs.
+
 ✓ Outcome: A tested and verified software product that meets the requirements.
+
 • Deployment:
+
 ✓ Objective: To deliver the software to the production environment.
+
 ✓ Activities: Installing and configuring the software, conducting user training, and 
 providing initial user support.
+
 ✓ Outcome: The software is live and available for use by the end-users.
+
 • Maintenance:
+
 ✓ Objective: To provide ongoing support and enhancements for the software.
+
 ✓ Activities: Fixing bugs, making improvements, updating documentation, and 
 providing user support.
+
 ✓ Outcome: An updated and continuously improved software product.
+
 • Retirement:
+
 ✓ Objective: To phase out the software when it is no longer needed or has been 
 replaced.
+
 ✓ Activities: Archiving data, decommissioning systems, and migrating users to new 
 systems.
+
 ✓ Outcome: The software is safely retired, and its data and functionality are preserved 
 as needed.
-Agile vs. Waterfall Models
-Waterfall Model
+
+Agile vs. Waterfall Models:
+
+Waterfall Model:
+
 • Sequential Phases:
+
 ✓ Each phase is completed before the next begins, with minimal overlap.
+
 • Documentation and Planning:
+
 ✓ Extensive upfront documentation and detailed planning, with clear requirements and 
 designs.
+
 • Flexibility:
+
 ✓ Changes are challenging to implement once the project is underway, as each phase is 
 dependent on the previous one.
+
 • Project Size and Duration:
+
 ✓ Suitable for projects with well-defined, stable requirements and typically longer 
 duration.
+
 • Examples:
+
 ✓ Construction projects, manufacturing processes, and other projects where changes are 
 unlikely once started.
-Agile Model
+
+Agile Model:
+
 • Iterative and Incremental:
+
 ✓ Development occurs in small cycles called sprints, with each sprint delivering a 
 potentially shippable product increment.
+
 • Customer Collaboration:
+
 ✓ Continuous feedback from stakeholders and customers, allowing for adjustments and 
 refinements throughout the project.
+
 • Flexibility:
+
 ✓ Highly adaptable to changing requirements, with the project divided into manageable 
 chunks that can be adjusted based on feedback.
+
 • Project Size and Duration:
+
 ✓ Ideal for projects with evolving or not fully understood requirements, typically shorter 
 and more dynamic projects.
+
 • Examples:
+
 ✓ Software development in dynamic environments like startups and tech companies, 
 where requirements change frequently.
 
