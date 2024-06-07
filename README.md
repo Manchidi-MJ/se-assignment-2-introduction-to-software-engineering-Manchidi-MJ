@@ -5,7 +5,9 @@ Assignment: Introduction to Software Engineering
 
 Questions:
 
-1.Define Software Engineering:Software Engineering: is the systematic application of engineering approaches to 
+1.Define Software Engineering:
+
+Software Engineering: is the systematic application of engineering approaches to 
 the development, operation, and maintenance of software.
 
 2.What is software engineering, and how does it differ from traditional programming?
