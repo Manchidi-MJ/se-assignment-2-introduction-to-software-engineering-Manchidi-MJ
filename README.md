@@ -15,7 +15,9 @@ operation, maintenance, and retirement of software.
 
 Differences Between Software Engineering and Traditional 
 Programming:
+
 • Scope:
+
 ✓ Traditional Programming: Primarily focused on writing code to solve specific 
 problems or tasks.
 ✓ Software Engineering: Encompasses the entire process of software 
