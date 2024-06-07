@@ -20,31 +20,49 @@ Programming:
 
 ✓ Traditional Programming: Primarily focused on writing code to solve specific 
 problems or tasks.
+
 ✓ Software Engineering: Encompasses the entire process of software 
 development, including planning, design, coding, testing, and maintenance.
+
 • Process Orientation:
+
 ✓ Traditional Programming: Often follows an ad hoc or informal approach.
+
 ✓ Software Engineering: Adheres to well-defined processes and methodologies 
 to ensure consistency and quality.
+
 • Team Collaboration:
+
 ✓ Traditional Programming: This can often be done individually or in small 
 teams with limited collaboration.
+
 ✓ Software Engineering: Requires extensive collaboration among various roles 
 and stakeholders.
+
 • Documentation and Standards:
+
 ✓ Traditional Programming: May involve minimal or informal documentation.
+
 ✓ Software Engineering: Emphasizes thorough documentation and adherence to 
 standards and best practices.
+
 • Project Management:
+
 ✓ Traditional Programming: Less focus on formal project management practices.
+
 ✓ Software Engineering: Strong focus on project management to plan, execute, 
 monitor, and control software projects.
+
 • Quality Assurance:
+
 ✓ Traditional Programming: May involve minimal testing and quality assurance 
 practices.
+
 ✓ Software Engineering: Emphasizes comprehensive testing and quality 
 assurance throughout the development process.
+
 Software Development Life Cycle (SDLC)
+
 The Software Development Life Cycle (SDLC) is a structured process used by software 
 engineering teams to design, develop, test, and deploy high-quality software
 
@@ -52,9 +70,12 @@ engineering teams to design, develop, test, and deploy high-quality software
 Agile vs. Waterfall Models:
 
 Phases of the Software Development Life Cycle (SDLC)
+
 • Requirement Analysis:
+
 ✓ Objective: To gather and document the functional and non-functional requirements 
 of the software from stakeholders.
+
 ✓ Activities: Conducting interviews, surveys, and meetings with stakeholders; 
 creating requirement specification documents.
 ✓ Outcome: A detailed requirements specification document that serves as a 
